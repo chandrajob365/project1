@@ -1,0 +1,9 @@
+I am new to Git. I can get a Git directory structure in a bare directory with git -init --bare. I can see where the git information is stored.
+
+However, when I try to use git init or even git clone, I never see any .git subdirectory in my local repository. I can add files and push, but have no idea where those files are actually stored on disk for my local repository.I am new to Git. I can get a Git directory structure in a bare directory with git -init --bare. I can see where the git information is stored.
+
+However, when I try to use git init or even git clone, I never see any .git subdirectory in my local repository. I can add files and push, but have no idea where those files are actually stored on disk for my local repository.I am new to Git. I can get a Git directory structure in a bare directory with git -init --bare. I can see where the git information is stored.
+
+However, when I try to use git init or even git clone, I never see any .git subdirectory in my local repository. I can add files and push, but have no idea where those files are actually stored on disk for my local repository.I am new to Git. I can get a Git directory structure in a bare directory with git -init --bare. I can see where the git information is stored.
+
+However, when I try to use git init or even git clone, I never see any .git subdirectory in my local repository. I can add files and push, but have no idea where those files are actually stored on disk for my local repository.
